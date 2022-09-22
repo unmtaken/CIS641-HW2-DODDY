@@ -2,6 +2,7 @@
 
 - Java developer with 5+ years of experience building enterprise java applications.
 - I watch youtube videos for passing the time.
+- I play sports like cricket.
 
 ## Technical Background
 
